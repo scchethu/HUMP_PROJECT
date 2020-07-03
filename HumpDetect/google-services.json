@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239262592516",
+    "firebase_url": "https://humpdetect.firebaseio.com",
+    "project_id": "humpdetect",
+    "storage_bucket": "humpdetect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239262592516:android:7d14fe4879a1ca8b",
+        "android_client_info": {
+          "package_name": "hump.sdmit.humpdetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239262592516-sbbmee0i9cem0u3u7157vcmuca7sk37m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hump.sdmit.humpdetect",
+            "certificate_hash": "a2ef40b8ee6b05ef7e2207b058109d32bfbc06b1"
+          }
+        },
+        {
+          "client_id": "239262592516-tf88pqtuao626bkmv0vr5see0oajh05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMAvUwTersuDJJsJ6-9kk8bsBpJk33U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239262592516-tf88pqtuao626bkmv0vr5see0oajh05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
